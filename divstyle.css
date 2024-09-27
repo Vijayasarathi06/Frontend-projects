@@ -1,0 +1,42 @@
+#a
+{
+    border: 3px solid rosybrown;
+    background-color: azure;
+}
+h1,h5
+{
+    color: black;
+    text-align: center;
+}
+ul
+{
+   list-style-type:none;
+   display:flex; 
+}
+li
+{
+    padding:30px;
+}
+#b
+{
+    border: 5px solid rosybrown;
+    background-color: greenyellow;
+    margin-top:5px;
+}
+#c
+{
+    float: left;
+    margin-top: 2px;
+    width: 660px;
+}
+#d
+{
+    float: left;
+    margin-top: 2px;
+    width: 660px;
+}
+img
+{
+    width: 660px;
+}
+

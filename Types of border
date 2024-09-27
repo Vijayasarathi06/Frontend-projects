@@ -1,0 +1,31 @@
+Types of broders
+
+inset
+outset
+groove
+ridge
+solid
+double
+dashed
+none
+dotted
+
+
+outline means an line will be drawn outside the border individual property
+outline-color
+outline width 
+outline type 
+
+margin will be outside the border
+margin-top
+margin left
+margin right
+margin bottom
+shorthand property: margin
+
+padding: individual porperty
+
+padding-top
+padding right
+padding bottom
+padding right
